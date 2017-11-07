@@ -70,3 +70,10 @@ nav a:hover {
 #alice a:hover {
   text-decoration: underline;
 }
+div.questions {
+  padding: 0 20px 0 20px;
+}
+div.questions h4 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
